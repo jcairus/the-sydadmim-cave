@@ -1,1 +1,1 @@
-# the-sydadmim-cave
+# the-sysadmim-cave
